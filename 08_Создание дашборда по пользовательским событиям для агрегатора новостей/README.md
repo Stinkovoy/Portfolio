@@ -1,1 +1,10 @@
-Ссылка на проект - https://public.tableau.com/views/TED-_17061269790680/TED-?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+# Создание дашборда по пользовательским событиям для агрегатора новостей
+[Ссылка на Tableau](https://public.tableau.com/views/TED-_17061269790680/TED-?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## Описание проекта
+Исследование истории TED-конференций.
+## Навыки и инструменты
+- Tableau
+- продуктовые метрики
+- построение дашбордов
+## Вывод
+Подготовлен интерактивный дашборд на основе данных о конференциях TED. Для создания дашбордов использован BI-инструмент Tableau.

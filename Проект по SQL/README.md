@@ -1,5 +1,5 @@
 # Проект по SQL
-[Исследование ipynb](https://github.com/Stinkovoy/Portfolio/blob/main/10_Проект%20по%20SQL/Project_10.ipynb)
+[Исследование ipynb](https://github.com/Stinkovoy/Yandex_Practicum/blob/Practice/Проект%20по%20SQL/Project_10.ipynb)
 ## Описание проекта
 Компания решила купить крупный сервис для чтения книг по подписке. Необходимо проанализировать базу данных.
 Эти данные помогут сформулировать ценностное предложение для нового продукта.
